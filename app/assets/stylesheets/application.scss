@@ -123,6 +123,7 @@ body {
  */
 
 .mastfoot {
+
   color: rgba(255,255,255,.5);
 }
 
@@ -159,4 +160,21 @@ body {
   .cover-container {
     width: 52rem;
   }
+}
+
+/*
+ * Custom Styles
+ */
+
+.card {
+  margin-top: 50px;
+}
+.card-block {
+  padding: 20px;
+  color: black;
+  text-align: left;
+}
+
+.auth-links a {
+  color: black;
 }
